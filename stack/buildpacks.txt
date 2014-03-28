@@ -1,5 +1,5 @@
 https://github.com/heroku/heroku-buildpack-nodejs.git
-https://github.com/heroku/heroku-buildpack-java.git
+https://github.com/seshendra/heroku-buildpack-java
 https://github.com/heroku/heroku-buildpack-play.git
 https://github.com/heroku/heroku-buildpack-scala.git
 https://github.com/heroku/heroku-buildpack-clojure.git
