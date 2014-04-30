@@ -1,10 +1,6 @@
-https://github.com/heroku/heroku-buildpack-nodejs.git
 https://github.com/seshendra/heroku-buildpack-java
 https://github.com/heroku/heroku-buildpack-play.git
 https://github.com/heroku/heroku-buildpack-scala.git
-https://github.com/heroku/heroku-buildpack-clojure.git
-https://github.com/heroku/heroku-buildpack-gradle.git
-https://github.com/heroku/heroku-buildpack-grails.git
 https://github.com/rhy-jot/buildpack-nginx.git
 https://github.com/Kloadut/heroku-buildpack-static-apache.git
 https://github.com/ddollar/heroku-buildpack-multi.git
