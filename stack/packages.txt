@@ -27,11 +27,13 @@ libssl0.9.8
 libxml2-dev
 libxslt-dev
 netcat-openbsd
+nodejs
 openssh-client
 openssh-server
+postgresql
+postgresql-server-dev-9.3
 python-dev
-ruby1.9.1-dev
-rubygems
+ruby-dev
 socat
 telnet
 zlib1g-dev
